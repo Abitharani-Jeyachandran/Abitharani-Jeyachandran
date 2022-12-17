@@ -131,7 +131,3 @@
 </p>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abitharani-Jeyachandran&theme=purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 📈 Contribution graph
-
-[![Abitharani's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Abitharani-Jeyachandran&bg_color=fcfcfc&color=070e46&line=4808bf&point=38208d&area=true&hide_border=false)](https://github.com/Abitharani-Jeyachandran/github-readme-activity-graph)
