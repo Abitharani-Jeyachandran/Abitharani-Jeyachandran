@@ -117,7 +117,6 @@
             <td>📚</td>
             <td>
                 <img alt="GoogleCloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white"/>
-                <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white"/>
             </td>
         </tr>
     </tbody>
